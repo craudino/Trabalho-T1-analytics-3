@@ -1,0 +1,6 @@
+codigo,endereco_referencia,cidade,regiao,area_m2,populacao_1km,renda_media_domiciliar,fluxo_pedestres_dia,vagas_estacionamento,distancia_concorrente_m,shopping,investimento_marketing_mensal,n_funcionarios
+A,"Av. das Nações, 2400 — loja de rua",Campinas,Sudeste,480,44.0,8200.0,6900,22,780,0,9000,17
+B,Shopping Centro Norte — piso L2,Curitiba,Sul,165,52.0,9100.0,8100,20,950,1,8500,11
+C,"R. Sete de Setembro, 155 — loja de rua",Goiânia,Centro-Oeste,126,34.0,6200.0,5200,13,430,0,6200,8
+D,"Av. Beira Rio, 88 — loja de rua",Porto Velho,Norte,110,28.0,5200.0,3600,12,500,0,5500,6
+E,"R. do Encanamento, 900 — loja de rua",Recife,Nordeste,112,47.0,,5600,7,160,0,6000,8
